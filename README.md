@@ -44,3 +44,11 @@ Various features in the dataset are as follows:
 3. Gradient Boosting Regressor
 4. Support Vector Regressor
 5. Time Series Analysis
+
+
+![My Image](output.png)
+
+
+After building multiple models to predict the weekly sales of 45 stores, we got the best accuracy of around 94% of accuracy for 3 months(90 Days).
+
+Out of all the models, we select the Lasso Regressor as our predictive Model since due to it's highest prediction accuracy with the lowest residual(error)
