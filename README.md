@@ -1,4 +1,4 @@
-## Introduction
+<b><h1>Walmart Sales Forecasting using Time-Series Analysis</h1></b>
 
 <b>Supply Chain Management</b> is one of the biggest issues faced by Retail industry. The main focus is to balance the supply and demand in a manner that achieve the financial and service objectives of the enterprise.
 
