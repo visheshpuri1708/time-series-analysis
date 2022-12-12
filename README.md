@@ -4,6 +4,14 @@
 
 If the store authorities get to know the demand of products that are sold in the store, it will be helpful for them to plan the supply chain accordingly. 
 
+<b>One of the most crucial elements of strategic planning is predicting future sales for a company.</b>
+
+In the kernal, I have analyzed in depth how internal and external factors of one of the biggest grocery chain WALMART can affect their Weekly Sales in future.
+
+This module contains analysis of data, including time series analysis, recognizes the best performing stores, perform predictions on sales with help of linear regression models.
+
+The data collected consists of sales data ranging from 2010 to 2012 for the 45 Walmart stores across US. Some external feature points like CPI, Unemployment rate and Fuel prices in the region of the store helped me to make a more detailed analysis.
+
 
 ## Data
 
